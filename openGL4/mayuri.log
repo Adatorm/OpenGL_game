@@ -1,0 +1,8 @@
+init function start
+test.bmp loaded
+mugiwara.bmp loaded
+grass_2.png loaded
+texture, depth enabled
+ligth and color material enabled
+camera mid point set
+end of init
